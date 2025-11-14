@@ -1,0 +1,37 @@
+{
+  "name": "nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-pdf-viewer/core": "^3.12.0",
+    "@react-pdf-viewer/default-layout": "^3.12.0",
+    "framer-motion": "^12.23.24",
+    "lucide-react": "^0.548.0",
+    "mongoose": "^8.5.3",
+    "next": "14.2.5",
+    "pdfjs-dist": "^3.11.174",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-email": "^3.0.1",
+    "react-pdf": "^10.2.0",
+    "resend": "^4.0.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.24",
+    "@types/react": "^18.3.26",
+    "@types/react-dom": "^18.3.7",
+    "@types/whatwg-url": "^13.0.0",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
