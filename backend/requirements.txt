@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+spacy
+nltk
+pdf2image
+python-docx
+PyPDF2
+python-dotenv
+google-generativeai
+fastapi
+uvicorn
+python-multipart
