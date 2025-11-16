@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 pandas
 numpy
@@ -12,3 +13,19 @@ google-generativeai
 fastapi
 uvicorn
 python-multipart
+=======
+streamlit
+pandas
+numpy
+scikit-learn
+spacy
+nltk
+pdf2image
+python-docx
+PyPDF2
+python-dotenv
+google-generativeai
+fastapi
+uvicorn
+python-multipart
+>>>>>>> 0d47c57f7f5a6c16473e48e4b0355153d2628fc7
